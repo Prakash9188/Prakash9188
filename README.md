@@ -1,5 +1,18 @@
-# 💫 About Me:
-currently i am btech final year student shri shankarachraya technical campus<br>3 month vocational traning at bs digital technolgy<br>Programming & Development: C, C++, Python, Java<br>Tools & Technologies: Git, MySQL, HTML, CSS, JavaScript<br>Completed Web Development Course – Udemy. Successfully completed 62+hrs online certified training on web<br>development. The training consisted of HTML, CSS, Bootstrap, DBMS, PHP, JS, React.<br>Reading books<br>Learning New Skills Online (YouTube, Udemy, etc.) 
+
+Hi, I'm Prakash 👋
+
+I am a Computer Science student focused on building strong engineering fundamentals.
+
+Core Interests:
+• Data Structures & Algorithms
+• Machine Learning
+• Artificial Intelligence
+• System-level problem solving
+
+I believe strong fundamentals build strong engineers.
+
+Currently preparing for GATE 2026 and implementing ML models from scratch.
+
 
 
 # 💻 Tech Stack:
